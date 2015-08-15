@@ -114,6 +114,27 @@ until I was satisfied I had the unicode about as good as it's going to get.
 For symbols, I took a strong bias towards mathematical symbols, guided by
 Unicode technical report #25 "Unicode Support for Mathematics".
 
+# ACKNOWLEDGEMENTS
+
+My thanks to Dr. Hershey, Dr. Wolcott, and to those unnamed people
+that archived and curated their publications for all of this
+time. This is a delightful example of the value of publishing, and
+especially of curating, even when the costs are today and the value,
+if indeed there will be any, accrues only to the future.  I appreciate
+your jobs well done. Usenet and GNU, thank you for preserving the
+digitized vectors available for all of this time.
+
+"The authors wish to acknowledge the assistance of Steve Soroka in
+preparing the program to produce the pictures in Appendix B, to
+Mrs. Carla Messina for the program to interface the NBS typographic
+system with the Hershey system, to M. Leighton Greenough for editorial
+advice, to Mrs. Constance Seymour for assistance in preparation of the
+manuscript and last, but not least, to Dr. A. V, Hershey He deserves
+our thanks, and that of the readers as well, not only for having
+developed such a remarkably useful and important system but also for
+the generosity with which he has shared the fruits of his labor with
+others." - Wolcott 1976
+
 # REFERENCES
 
 Borke, Paul. "Hershey Vector Font based on the hershey character
