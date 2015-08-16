@@ -107,6 +107,10 @@ towards mathematical symbols, guided by Unicode technical report #25
 "Unicode Support for Mathematics". You can see the results in
 ./HersheyAllGlyphs.cdf.
 
+# SAMPLES
+
+![Hershey font sampler](./sampler.jpg "Samples")
+
 # ACKNOWLEDGEMENTS
 
 My thanks to Dr. Hershey, Dr. Wolcott, and to those unnamed people
