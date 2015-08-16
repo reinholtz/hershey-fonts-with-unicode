@@ -1,5 +1,7 @@
 # hershey-fonts-with-unicode
 
+![Hello, world in Hershey font](./helloworld.jpg "Hello, World!")
+
 Hershey vector fonts with original font class and font index
 information, and a unicode mapping created by me.
 
